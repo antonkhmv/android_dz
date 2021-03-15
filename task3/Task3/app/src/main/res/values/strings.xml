@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Task3</string>
+
+    <string name="fio">Хомяков Антон Арменович, БПИ191</string>
+
+    <string name="button_text">Go</string>
+
+    <string name="button_second_text">Back</string>
+
+    <string name="first_act_text">first activity</string>
+
+    <string name="second_act_text">second activity</string>
+
+    <string name="textView_text">Вы ввели: </string>
+
+    <string name="text_hint">Введите текст: </string>
+</resources>
