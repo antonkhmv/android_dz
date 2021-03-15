@@ -3,20 +3,20 @@
 
 * **Файл ресурсов**
 
-![img1](https://github.com/antonkhmv/android_dz/blob/main/task2/img/str.png)
+![img1](/img/str.png)
 
 * **Main Activity**
 
-![img1](https://github.com/antonkhmv/android_dz/blob/main/task2/img/code.png)
+![img1](/img/code.png)
 
 * **Layout**
 
-![img2](https://github.com/antonkhmv/android_dz/blob/main/task2/img/lay.png)
+![img2](/img/lay.png)
  
 ### Результат
 
-![res](https://github.com/antonkhmv/android_dz/blob/main/task2/img/res.gif)
+![res](/img/res.gif)
 
 ## [Следующее задание task3](../task3)
 
-## [На главную](../.)
+## [На главную](./)
