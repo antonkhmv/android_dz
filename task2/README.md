@@ -1,4 +1,4 @@
-# task1
+# task2
 ### Код 
 
 * **Файл ресурсов**
@@ -7,7 +7,7 @@
 
 * **Main Activity**
 
-![img1](https://github.com/antonkhmv/android_dz/blob/main/task2/img/str.png)
+![img1](https://github.com/antonkhmv/android_dz/blob/main/task2/img/code.png)
 
 * **Layout**
 
