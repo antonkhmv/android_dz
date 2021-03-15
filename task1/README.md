@@ -12,3 +12,5 @@
 ### Результат
 
 ![res](https://github.com/antonkhmv/android_dz/blob/main/task1/img/res.png)
+
+## [Следующее задание task2](../task2)
