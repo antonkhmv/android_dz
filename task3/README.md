@@ -29,6 +29,4 @@ Second
 
 ![res](https://github.com/antonkhmv/android_dz/blob/main/task3/img/res.gif)
 
-## Следующее задание
-
-[task4](../task4)
+## [Следующее задание task4](../task4)
