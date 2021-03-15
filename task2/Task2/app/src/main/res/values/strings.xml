@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task2</string>
+
+    <string name="fio">Хомяков Антон Арменович гр. БПИ191</string>
+
+    <string name="hint_editText">Введите имя</string>
+
+    <string name="button_text">Send</string>
+</resources>
