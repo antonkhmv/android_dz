@@ -5,7 +5,7 @@
 
 ![str](https://github.com/antonkhmv/android_dz/blob/main/task3/img/str.png)
 
-* **Main Activity**
+* **Activity**
 
 Main
 
@@ -28,3 +28,7 @@ Second
 ### Результат
 
 ![res](https://github.com/antonkhmv/android_dz/blob/main/task3/img/res.gif)
+
+## Следующее задание
+
+[task4](../task4)
