@@ -9,7 +9,9 @@ Strings
 
 tween_anim
 
-[!anim](https://github.com/antonkhmv/android_dz/blob/main/task6/img/tween_anim.png)
+(последние 2 анимации выполняются одновременно)
+
+![anim](https://github.com/antonkhmv/android_dz/blob/main/task6/img/tween_anim.png)
 
 * **Activity**
 
