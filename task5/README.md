@@ -3,7 +3,13 @@
 
 * **Файл ресурсов**
 
+Strings
+
 ![str](https://github.com/antonkhmv/android_dz/blob/main/task5/img/str.png)
+
+Images
+
+![str](https://github.com/antonkhmv/android_dz/blob/main/task5/img/images.png)
 
 * **Activity**
 
