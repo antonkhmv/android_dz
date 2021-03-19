@@ -25,6 +25,6 @@ List item
 
 ![res](https://github.com/antonkhmv/android_dz/blob/main/task5/img/res.png)
 
-## [Следующее задание task5](../task5)
+## [Следующее задание task6](../task6)
 
 ## [На главную](/../../)

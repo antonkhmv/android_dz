@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task6</string>
+
+    <string name="fio">Хомяков Антон Арменович, гр. БПИ191</string>
+
+    <string name="button">Нажмите для начала анимации</string>
+
+    <string name="text_view">Анимированный текст</string>
+</resources>
