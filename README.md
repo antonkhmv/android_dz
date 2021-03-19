@@ -4,5 +4,6 @@
  
 ### [Первое задание task1](/task1/)
 
-### [task1](/task2/)
-### [task1](/task3/)
+### [task2](/task2/) [task5](/task5/)
+### [task3](/task3/) [task6](/task6/)
+### [task4](/task4/) [task7](/task7/)
