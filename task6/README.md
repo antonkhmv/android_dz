@@ -9,7 +9,7 @@ Strings
 
 tween_anim
 
-[!anim](https://github.com/antonkhmv/android_dz/blob/main/task6/img/tween_anim.png)
+![anim](https://github.com/antonkhmv/android_dz/blob/main/task6/img/tween_anim.png)
 
 * **Activity**
 
