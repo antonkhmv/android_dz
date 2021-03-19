@@ -11,15 +11,15 @@
 
 * **NewAppWidget Configure Activity**
 
-![main](https://github.com/antonkhmv/android_dz/blob/main/task8/img/sec.png)
+![main](https://github.com/antonkhmv/android_dz/blob/main/task8/img/second.png)
 
 * **Layout**
 
-App widget
+New App Widget
 
 ![main_lay](https://github.com/antonkhmv/android_dz/blob/main/task8/img/main_lay.png)
  
-App widget configure
+ New App Widget Configure
 
 ![sec_lay](https://github.com/antonkhmv/android_dz/blob/main/task8/img/sec_lay.png)
  
