@@ -7,7 +7,6 @@ Strings
 
 ![str](https://github.com/antonkhmv/android_dz/blob/main/task7/img/str.png)
 
-
 * **Activity**
 
 ![main](https://github.com/antonkhmv/android_dz/blob/main/task7/img/main.png)
@@ -20,7 +19,7 @@ Design
 
 Code
 
-![lay_code](https://github.com/antonkhmv/android_dz/blob/main/task7/img/main.png)
+![lay_code](https://github.com/antonkhmv/android_dz/blob/main/task7/img/lay_code.png)
 
 ### Результат
 
