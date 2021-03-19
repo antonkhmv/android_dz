@@ -1,30 +1,30 @@
-# task3
+# task5
 ### Код 
 
 * **Файл ресурсов**
 
-![str](https://github.com/antonkhmv/android_dz/blob/main/task3/img/str.png)
+![str](https://github.com/antonkhmv/android_dz/blob/main/task5/img/str.png)
 
 * **Activity**
 
-![main](https://github.com/antonkhmv/android_dz/blob/main/task3/img/main.png)
+![main](https://github.com/antonkhmv/android_dz/blob/main/task5/img/main.png)
 
 * **Layout**
 
 Main
 
-![main_lay](https://github.com/antonkhmv/android_dz/blob/main/task3/img/main_lay.png)
+![main_lay](https://github.com/antonkhmv/android_dz/blob/main/task5/img/main_lay.png)
  
 List item
 
 (в коде стоит marginBottom = 16ds и marginTop = 16ds)
 
-![sec_lay](https://github.com/antonkhmv/android_dz/blob/main/task3/img/sec_lay.png)
+![sec_lay](https://github.com/antonkhmv/android_dz/blob/main/task5/img/sec_lay.png)
  
 ### Результат
 
-![res](https://github.com/antonkhmv/android_dz/blob/main/task3/img/res.png)
+![res](https://github.com/antonkhmv/android_dz/blob/main/task5/img/res.png)
 
-## [Следующее задание task4](../task4)
+## [Следующее задание task5](../task5)
 
 ## [На главную](/../../)
