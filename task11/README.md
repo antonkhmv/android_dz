@@ -23,7 +23,7 @@
  
 ### Результат
 
-![res](https://github.com/antonkhmv/android_dz/blob/main/task11/img/res.mkv)
+![res](https://github.com/antonkhmv/android_dz/blob/main/task11/img/res.mp4)
 
 ## [Следующее задание task12](../task12)
 
