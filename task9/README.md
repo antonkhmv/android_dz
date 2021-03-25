@@ -5,11 +5,11 @@
 
 ![str](https://github.com/antonkhmv/android_dz/blob/main/task9/img/str.png)
 
-* ** Options Menu Code**
+* **Options Menu Code**
 
 ![main](https://github.com/antonkhmv/android_dz/blob/main/task9/img/opt_code.png)
 
-* ** Context Menu Code**
+* **Context Menu Code**
 
 ![main](https://github.com/antonkhmv/android_dz/blob/main/task9/img/ctxt_code.png)
 
