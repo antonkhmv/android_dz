@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Task12</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <string name="about_text">О программе</string>
+
+    <string name="fio">Хомяков Антон Арменович гр. БПИ191</string>
+
+    <string name="textview">Нажмите для воспроизведения музыки</string>
+
+</resources>
+

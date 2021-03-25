@@ -24,11 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="051310d6-2a8e-439c-852a-b8fe6b5f23be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../img/str.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../task10/MyApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task10/MyApplication/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="051310d6-2a8e-439c-852a-b8fe6b5f23be" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +62,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android-custom-viewC:/Users/Anton/AppData/Local/Android/Sdk/sources/android-29/android/view/View.java_SELECTED" value="View" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../task12/Task12" />
     <property name="multi-representation-previewC:/Users/Anton/AppData/Local/Android/Sdk/sources/android-29/android/view/View.java_selected" value="Custom views" />
   </component>
   <component name="RunManager">
@@ -184,10 +180,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="559" y="493" key="AndroidCreateXmlResourceDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1616460427718" />
-    <state x="494" y="458" key="FileChooserDialogImpl" timestamp="1616693832276">
+    <state x="494" y="458" key="FileChooserDialogImpl" timestamp="1616701195794">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="494" y="458" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1616693832276" />
+    <state x="494" y="458" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1616701195794" />
     <state width="1383" height="400" key="GridCell.Tab.0.bottom" timestamp="1616460913834">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
