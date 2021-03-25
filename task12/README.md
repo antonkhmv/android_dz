@@ -19,9 +19,9 @@
 
 ### Результат
 
-## [**Видео со звуком**]()
+## [**Видео со звуком**](https://user-images.githubusercontent.com/52835833/112535849-ce098d80-8dbd-11eb-8ac7-650e3a7facc2.mp4)
 
-![res](https://user-images.githubusercontent.com/52835833/112532742-3b1b2400-8dba-11eb-9938-74918fb69e83.gif)
+![res](https://github.com/antonkhmv/android_dz/blob/main/task12/img/res.gif)
 
 ## [Следующее задание task13](../task13)
 
