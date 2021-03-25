@@ -9,7 +9,7 @@
 
 ![main](https://github.com/antonkhmv/android_dz/blob/main/task10/img/main_code.png)
 
-* ** Options Menu Code**
+* **Options Menu Code**
 
 ![main](https://github.com/antonkhmv/android_dz/blob/main/task10/img/opt_code.png)
 
