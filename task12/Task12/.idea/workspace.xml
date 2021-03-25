@@ -24,9 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb2d69d2-c67e-4b1b-980c-b6abff8c2883" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../task11/Task11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task11/Task11/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fb2d69d2-c67e-4b1b-980c-b6abff8c2883" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +52,7 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-03-23T10:02:22.347Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../task13/Task13" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RunManager">
@@ -173,10 +171,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1124" y="490" key="AndroidCreateXmlResourceDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1616469823200" />
-    <state x="515" y="459" key="FileChooserDialogImpl" timestamp="1616469317055">
+    <state x="515" y="459" key="FileChooserDialogImpl" timestamp="1616702546548">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="515" y="459" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1616469317055" />
+    <state x="515" y="459" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1616702546548" />
     <state x="148" y="345" key="SettingsEditor" timestamp="1616493754359">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
