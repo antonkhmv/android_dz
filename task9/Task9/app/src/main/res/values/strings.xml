@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Task9</string>
+
+    <string name="hidden_text">Скрытый текст</string>
+
+    <string name="hide_text_text">Скрыть текст</string>
+
+    <string name="about_text">О программе</string>
+
+    <string name="fio">Автор - Хомяков Антон Арменович гр. БПИ191</string>
+</resources>
+
+
+
