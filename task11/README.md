@@ -5,27 +5,25 @@
 
 ![str](https://github.com/antonkhmv/android_dz/blob/main/task10/img/str.png)
 
-* **Main Activity Code**
+* **Notification Channel Code**
 
-![main](https://github.com/antonkhmv/android_dz/blob/main/task10/img/main_code.png)
+![main](https://github.com/antonkhmv/android_dz/blob/main/task10/img/chan.png)
 
-* ** Options Menu Code**
+* **Button Click Code**
 
-![main](https://github.com/antonkhmv/android_dz/blob/main/task10/img/opt_code.png)
+![main](https://github.com/antonkhmv/android_dz/blob/main/task10/img/lstn.png)
 
-* **Layout**
-
-Main Activity
+* **Main Activity Layout**
 
 ![main_lay](https://github.com/antonkhmv/android_dz/blob/main/task10/img/lay.png)
 
-Options Menu
+* **Raw file**
 
-![sec_lay](https://github.com/antonkhmv/android_dz/blob/main/task10/img/opt.png)
+![sec_lay](https://github.com/antonkhmv/android_dz/blob/main/task10/img/raw.png)
  
 ### Результат
 
-![res](https://github.com/antonkhmv/android_dz/blob/main/task10/img/res.gif)
+![res](https://github.com/antonkhmv/android_dz/blob/main/task10/img/res.mkv)
 
 ## [Следующее задание task11](../task11)
 
