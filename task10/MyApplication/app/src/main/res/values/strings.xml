@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Task10</string>
+
+    <string name="button_text">Выход</string>
+
+    <string name="about_text">О программе</string>
+
+    <string name="fio">Автор - Хомяков Антон Арменович гр. БПИ191</string>
+
+    <string name="description">Программа - пример использования диалогово окна</string>
+</resources>
+
+
