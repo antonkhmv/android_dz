@@ -1,0 +1,6 @@
+ru/hse/task11/BuildConfig.java
+ ru.hse.task11.BuildConfig
+ru/hse/task11/MainActivity.java
+ ru.hse.task11.MainActivity
+ ru.hse.task11.MainActivity$1
+ ru.hse.task11.MainActivity$2
