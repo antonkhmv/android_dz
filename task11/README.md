@@ -23,7 +23,9 @@
  
 ### Результат
 
-https://user-images.githubusercontent.com/52835833/112532191-96004b80-8db9-11eb-9d37-a860f644edfc.mp4
+[**Видео со звуком**](https://user-images.githubusercontent.com/52835833/112532191-96004b80-8db9-11eb-9d37-a860f644edfc.mp4)
+
+![res](https://user-images.githubusercontent.com/52835833/112532742-3b1b2400-8dba-11eb-9938-74918fb69e83.gif)
 
 ## [Следующее задание task12](../task12)
 
