@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task14</string>
+
+    <string name="about_text">О программе</string>
+
+    <string name="fio">Хомяков Антон Арменович гр. БПИ191</string>
+
+    <string name="button_text">Снять фото</string>
+</resources>
+
+
