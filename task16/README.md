@@ -12,7 +12,7 @@
 
 * **Fire Message Servie**
 
-![main](https://github.com/antonkhmv/android_dz/blob/main/task16/img/msg_srv.png)
+![main](https://github.com/antonkhmv/android_dz/blob/main/task16/img/msg_service.png)
 
 * **Main Activity Layout**
 
@@ -24,7 +24,7 @@
  
 * **Gradle.build**
 
-![sec_lay](https://github.com/antonkhmv/android_dz/blob/main/task16/img/grd_bld_prj.png)
+![sec_lay](https://github.com/antonkhmv/android_dz/blob/main/task16/img/grd_build_prj.png)
 
 ![sec_lay](https://github.com/antonkhmv/android_dz/blob/main/task16/img/grd_bld_module.png)
  
