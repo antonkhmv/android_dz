@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task16</string>
+
+    <string name="about_text">О программе</string>
+
+    <string name="fio">Хомяков Антон Арменович гр. БПИ191</string>
+
+    <string name="button_text">Button</string>
+</resources>
+
