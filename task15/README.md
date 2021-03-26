@@ -12,7 +12,7 @@
 
 ![main](https://github.com/antonkhmv/android_dz/blob/main/task15/img/set_code.png)
 
-* **Option Menu Code**
+* **Options Menu Code**
 
 ![opt_code](https://github.com/antonkhmv/android_dz/blob/main/task15/img/opt_code.png)
  
@@ -51,6 +51,15 @@ Recycler View работает лучше List View, который сечас d
 * **Edit Button Listener**
 
 ![main](https://github.com/antonkhmv/android_dz/blob/main/task15/img/edit_btn.png)
+
+* **List Item Layout**
+
+![main](https://github.com/antonkhmv/android_dz/blob/main/task15/img/list_item_lay.png)
+
+* **Dialog Layout**
+
+![main](https://github.com/antonkhmv/android_dz/blob/main/task15/img/dlg_lay.png)
+
 
 ### Результат
 
